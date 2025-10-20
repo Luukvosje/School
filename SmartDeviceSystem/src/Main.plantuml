@@ -1,0 +1,56 @@
+@startuml
+
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class MainKt {
+  + main(): Unit
+}
+class SmartDevice {
+  + SmartDevice(String, String, deviceType): 
+  + updateDeviceStatus(): Unit
+  + printDeviceStatus(): Unit
+  + printDeviceInfo(): Unit
+   deviceType: deviceType
+   name: String
+   category: String
+}
+class SmartHome {
+  + SmartHome(): 
+  + decreaseLightBrightness(): Unit
+  + addDevice(SmartDevice): Unit
+  + printSmartTvInfo(): Unit
+  + printSmartLightInfo(): Unit
+  + decreaseBrightness(): Unit
+  + activeLights(): Unit
+  + decreaseTvVolume(): Unit
+  + changeTvChannelToPrevious(): Unit
+}
+class SmartLightDevice {
+  + SmartLightDevice(String, String): 
+  + decreaseBrightness(): Unit
+}
+class SmartTvDevice {
+  + SmartTvDevice(String, String): 
+  + previousChannel(): Unit
+  + decreaseVolume(): Unit
+   volume: Double
+}
+enum deviceType << enumeration >> {
+  - deviceType(): 
+  + values(): deviceType[]
+  + valueOf(String): deviceType
+   entries: EnumEntries<deviceType>
+}
+
+MainKt            -[#595959,dashed]->  SmartHome        : "«create»"
+MainKt            -[#595959,dashed]->  SmartLightDevice : "«create»"
+MainKt            -[#595959,dashed]->  SmartTvDevice    : "«create»"
+SmartDevice      "1" *-[#595959,plain]-> "deviceType\n1" deviceType       
+SmartHome        "1" *-[#595959,plain]-> "devices\n*" SmartDevice      
+SmartLightDevice  -[#000082,plain]-^  SmartDevice      
+SmartLightDevice  -[#595959,dashed]->  SmartDevice      : "«create»"
+SmartTvDevice     -[#000082,plain]-^  SmartDevice      
+SmartTvDevice     -[#595959,dashed]->  SmartDevice      : "«create»"
+@enduml

@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="399523">
+                <value>
+                  <list>
+                    <Term value="keyboard shortcuts" definition="A keyboard shortcut is a special key combination that causes a specific command to be executed." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399527">
+                <value>
+                  <list>
+                    <Term value="var" definition="In Kotlin, 'var' is used to declare a mutable variable whose value can be changed during the program execution." />
+                    <Term value="val" definition="In Kotlin, 'val' is used to declare an immutable variable whose value cannot be reassigned once initialized." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399528">
+                <value>
+                  <list>
+                    <Term value="var" definition="In Kotlin, 'var' represents a mutable variable whose value can be reassigned." />
+                    <Term value="val" definition="In Kotlin, 'val' represents an immutable variable whose value cannot be reassigned once initialized." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399534">
+                <value>
+                  <list>
+                    <Term value="Show intention actions" definition="Show Intention Actions is a shortcut in IntelliJ IDEA for accessing available intention actions depending on the context." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399539">
+                <value>
+                  <list>
+                    <Term value="Functions" definition="A function is a reusable block of code designed to perform a particular task when called." />
+                    <Term value="function" definition="A function is a reusable block of code designed to perform a particular task when called." />
+                    <Term value="String" definition="A String is a sequence of characters used to represent text in programming." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399545">
+                <value>
+                  <list>
+                    <Term value="absolute value" definition="The absolute value of a number is its distance from zero, disregarding whether it is positive or negative." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399554">
+                <value>
+                  <list>
+                    <Term value="Rename" definition="In the context of an IDE, Rename is a feature that allows automatic renaming of a declaration while preserving the correct usage in the code without affecting unrelated contexts like string literals or comments." />
+                    <Term value="rename" definition="In the context of an IDE, Rename is a feature that allows automatic renaming of a declaration while preserving the correct usage in the code without affecting unrelated contexts like string literals or comments." />
+                    <Term value="renaming" definition="In the context of an IDE, Rename is a feature that allows automatic renaming of a declaration while preserving the correct usage in the code without affecting unrelated contexts like string literals or comments." />
+                    <Term value="Refactor" definition="Refactor is an operation in the IDE that helps developers restructure code, such as renaming identifiers, to improve readability or reuse without changing its external behavior." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399556">
+                <value>
+                  <list>
+                    <Term value="Int" definition="In Kotlin, 'Int' is a data type used to represent 32-bit integer numbers." />
+                    <Term value="Double" definition="In Kotlin, 'Double' is a data type used to represent 64-bit floating-point numbers." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399560">
+                <value>
+                  <list>
+                    <Term value="integer math" definition="Integer math can cause unexpected results if fractions are truncated; ensure proper use of mathematical operations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399561">
+                <value>
+                  <list>
+                    <Term value="Long" definition="In Kotlin, 'Long' is a 64-bit signed integer data type used for storing large numerical values, including intermediate computations to prevent overflow." />
+                    <Term value="integer overflow" definition="Integer overflow occurs when a numerical computation exceeds the maximum value the integer type can hold, leading to erroneous results." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399562">
+                <value>
+                  <list>
+                    <Term value="Find Action" definition="A universal way in IntelliJ IDEA to call an action by its name, allowing you to type part of the name and get matching actions." />
+                    <Term value="Find action" definition="A universal way in IntelliJ IDEA to call an action by its name, allowing you to type part of the name and get matching actions." />
+                    <Term value="Specify type explicitly" definition="An action in IntelliJ IDEA to explicitly state the type of a variable." />
+                    <Term value="Rename" definition="An action in IntelliJ IDEA to rename a variable, method, or other elements in the code." />
+                    <Term value="Convert to expression/block body" definition="An action in IntelliJ IDEA to convert code between expression body and block body forms." />
+                    <Term value="Navigate to declaration" definition="An action in IntelliJ IDEA to jump directly to the declaration of a variable, method, or class." />
+                    <Term value="Show intention actions" definition="An action in IntelliJ IDEA to display available intention actions for quick fixes or code improvements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399565">
+                <value>
+                  <list>
+                    <Term value="Booleans" definition="In programming, a Boolean represents one of two values: true or false." />
+                    <Term value="boolean" definition="In programming, a Boolean represents one of two values: true or false." />
+                    <Term value="&amp;&amp;" definition="'&amp;&amp;' is the logical AND operator in Kotlin, used to evaluate if both conditions are true." />
+                    <Term value="||" definition="'||' is the logical OR operator in Kotlin, used to evaluate if at least one of the conditions is true." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399567">
+                <value>
+                  <list>
+                    <Term value="Booleans" definition="A Boolean represents a data type with only two possible values: true or false." />
+                    <Term value="Boolean" definition="A Boolean represents a data type with only two possible values: true or false." />
+                    <Term value="&amp;&amp;" definition="The '&amp;&amp;' operator is a logical AND operator that returns true if both operands are true." />
+                    <Term value="||" definition="The '||' operator is a logical OR operator that returns true if at least one of the operands is true." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399577">
+                <value>
+                  <list>
+                    <Term value="factorial" definition="The product of all positive integers less than or equal to a given number (`n! = 1 * 2 * ... * n`)." />
+                    <Term value="Long" definition="A data type in programming used to store 64-bit integer values." />
+                    <Term value="toLong()" definition="A method used to convert an integer constant or expression to type `Long`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399582">
+                <value>
+                  <list>
+                    <Term value="Live Template" definition="In IntelliJ IDEA, Live Templates enable users to rapidly create frequently-used expressions by typing a shortcut and expanding it into a predefined code snippet." />
+                    <Term value="Live templates" definition="In IntelliJ IDEA, Live Templates enable users to rapidly create frequently-used expressions by typing a shortcut and expanding it into a predefined code snippet." />
+                    <Term value="live template" definition="In IntelliJ IDEA, Live Templates enable users to rapidly create frequently-used expressions by typing a shortcut and expanding it into a predefined code snippet." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399588">
+                <value>
+                  <list>
+                    <Term value="isEmpty()" definition="The isEmpty() method checks whether a given String is empty, meaning it has no characters." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399589">
+                <value>
+                  <list>
+                    <Term value="`main` Live Template" definition="The `main` live template automatically produces the `main()` function declaration in the IDE." />
+                    <Term value="`main` live template" definition="The `main` live template automatically produces the `main()` function declaration in the IDE." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399592">
+                <value>
+                  <list>
+                    <Term value="breakpoints" definition="Points in the code where the program execution is paused during debugging to observe the state of variables." />
+                    <Term value="breakpoint" definition="Points in the code where the program execution is paused during debugging to observe the state of variables." />
+                    <Term value="Breakpoint" definition="Points in the code where the program execution is paused during debugging to observe the state of variables." />
+                    <Term value="Debug" definition="A powerful way to discover what's happening in the code by observing intermediate states and changes between these states." />
+                    <Term value="Debugging" definition="A powerful way to discover what's happening in the code by observing intermediate states and changes between these states." />
+                    <Term value="debugging" definition="A powerful way to discover what's happening in the code by observing intermediate states and changes between these states." />
+                    <Term value="debug" definition="A powerful way to discover what's happening in the code by observing intermediate states and changes between these states." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399594">
+                <value>
+                  <list>
+                    <Term value="var" definition="In programming, var is a keyword used to declare a variable, allowing for the storage and manipulation of data." />
+                    <Term value="occurrences" definition="A variable that counts the number of times a specific digit or element appears in a dataset or object." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399596">
+                <value>
+                  <list>
+                    <Term value="var" definition="A keyword used in programming languages like Kotlin to declare a mutable variable which means its value can be changed." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399599">
+                <value>
+                  <list>
+                    <Term value="format string" definition="A format string is used in programming to customize the layout or presentation of data, typically by placing additional spaces or characters before or after a value to align it in a specific way." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399601">
+                <value>
+                  <list>
+                    <Term value="Palindromes" definition="A palindrome is a word or phrase that reads the same forward and backward, such as 'mom' or 'rotator'." />
+                    <Term value="palindrome" definition="A palindrome is a word or phrase that reads the same forward and backward, such as 'mom' or 'rotator'." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399602">
+                <value>
+                  <list>
+                    <Term value="lowercase()" definition="A method used to convert a String to all lower-case characters." />
+                    <Term value="uppercase()" definition="A method used to convert a String to all upper-case characters." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399603">
+                <value>
+                  <list>
+                    <Term value="String" definition="A String in programming is a sequence of characters used to represent text." />
+                    <Term value="palindrome" definition="A Palindrome is a word, phrase, or sequence that reads the same backwards as forwards." />
+                    <Term value="in" definition="The 'in' operator in programming is used to check membership, such as whether a value is contained in a range or collection." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399605">
+                <value>
+                  <list>
+                    <Term value="code completion" definition="In IntelliJ IDEA, Code Completion is a feature that attempts to complete what you're typing and shows you a list of options, such as members of a class that can be called." />
+                    <Term value="IntelliJ IDEA" definition="IntelliJ IDEA is an Integrated Development Environment (IDE) used for Kotlin programming, which provides advanced features like code completion for exploring classes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399615">
+                <value>
+                  <list>
+                    <Term value="Robot" definition="A Robot object starts in the (0, 0) cell and can move right, left, up, and down. Its location is stored as a pair of coordinates (x, y), where (0, 0) is the top-left corner." />
+                    <Term value="getLocation()" definition="The getLocation() function returns the Robot's coordinates as a String in the form (x, y)." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399616">
+                <value>
+                  <list>
+                    <Term value="crossBoundary()" definition="An auxiliary member function used to check the boundaries of a square field, ensuring proper handling of looped edges." />
+                    <Term value="Robot" definition="A programmable entity that moves within a looped square field of size 100 x 100, adjusting its position based on the direction commands." />
+                    <Term value="robot" definition="A programmable entity that moves within a looped square field of size 100 x 100, adjusting its position based on the direction commands." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399617">
+                <value>
+                  <list>
+                    <Term value="Extract Property" definition="In IntelliJ IDEA, Extract Property is a refactoring action that allows you to extract constants used in multiple code locations into a property for easy modification and maintainability." />
+                    <Term value="Refactor" definition="Refactor refers to the process of restructuring existing code without changing its external behavior, in order to improve its readability, maintainability, or performance." />
+                    <Term value="Replace all occurrences" definition="In IntelliJ IDEA, Replace all occurrences refers to a feature that replaces all instances of a selected constant or value in the code with a newly extracted property." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399621">
+                <value>
+                  <list>
+                    <Term value="toString()" definition="The toString() member function in programming is used to create a string representation of an object." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399623">
+                <value>
+                  <list>
+                    <Term value="private" definition="The 'private' keyword in programming is used to restrict access to a class's properties or methods such that they can only be accessed within the class itself." />
+                    <Term value="crossBoundary()" definition="'crossBoundary()' appears to be a function in the 'Robot' class designed to perform a specific task and is used to demonstrate access restrictions when its visibility is set to private." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399625">
+                <value>
+                  <list>
+                    <Term value="Extend Selection" definition="The 'Extend Selection' action is used to increase the selected text by progressively including the outer expressions." />
+                    <Term value="Shrink selection" definition="The 'Shrink Selection' action is used to decrease the selected text by progressively narrowing the selection." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399627">
+                <value>
+                  <list>
+                    <Term value="Extract Function" definition="In IntelliJ IDEA, the 'Extract Function' feature allows you to extract repetitive or reusable code from a function into a separate, newly created function." />
+                    <Term value="Refactor" definition="'Refactor' is a feature in IntelliJ IDEA that provides tools to restructure your code, including renaming, extracting methods, or changing method signatures without changing its behavior." />
+                    <Term value="Process Duplicates" definition="In IntelliJ IDEA, 'Process Duplicates' is a feature that detects and enables the removal of duplicate code by agreeing to extract and replace them with a single reusable method." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399629">
+                <value>
+                  <list>
+                    <Term value="Packages" definition="In programming, a package is a namespace that organizes a set of related classes and interfaces." />
+                    <Term value="package" definition="In programming, a package is a namespace that organizes a set of related classes and interfaces." />
+                    <Term value="area()" definition="area() is a member function that calculates the area of a geometric shape, in this case, a triangle using the formula sqrt(3.0) / 4 * side * side." />
+                    <Term value="Import" definition="In programming, Import is a statement that allows access to classes or objects from other packages or files." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399630">
+                <value>
+                  <list>
+                    <Term value="Auto-import" definition="In IntelliJ IDEA, auto-import allows necessary declarations to be imported automatically when chosen from the completion list." />
+                    <Term value="CodeCompletion" definition="CodeCompletion is a feature in IntelliJ IDEA that provides suggestions for completing code elements like class names or methods while typing." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399633">
+                <value>
+                  <list>
+                    <Term value="Test Driven Development" definition="Test Driven Development is a software development approach where tests are written before writing the code to implement functionality. The process involves writing a failing test first and then writing the code to make the test pass." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399637">
+                <value>
+                  <list>
+                    <Term value="IllegalArgumentException" definition="IllegalArgumentException is an exception thrown when a method receives an argument formatted differently than expected, such as a negative number when only non-negative values are allowed." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399638">
+                <value>
+                  <list>
+                    <Term value="Stacktrace" definition="A stacktrace is a report that provides the sequence of method calls and the points where exceptions are thrown in a program." />
+                    <Term value="stacktrace" definition="A stacktrace is a report that provides the sequence of method calls and the points where exceptions are thrown in a program." />
+                    <Term value="IllegalStateException" definition="IllegalStateException occurs when a method has been invoked at an illegal or inappropriate time." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399640">
+                <value>
+                  <list>
+                    <Term value="Lists" definition="In Kotlin, a List is a collection that is ordered and can contain duplicates, with elements accessible by an index." />
+                    <Term value="List" definition="In Kotlin, a List is a collection that is ordered and can contain duplicates, with elements accessible by an index." />
+                    <Term value="findMax" definition="In Kotlin, findMax is a function designed to find the maximum value in a List of natural numbers, returning zero if the List is empty." />
+                    <Term value="IntList" definition="In Kotlin, IntList is an example class that allows iteration over a List's contents, retrieving their size and accessing elements by index." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399642">
+                <value>
+                  <list>
+                    <Term value="toList()" definition="The toList() method in Kotlin converts a String into a List of characters." />
+                    <Term value="Lists" definition="In Kotlin, a List is an ordered collection of elements that can contain duplicates." />
+                    <Term value="List" definition="In Kotlin, a List is an ordered collection of elements that can contain duplicates." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399643">
+                <value>
+                  <list>
+                    <Term value="Parameter Info" definition="An action that checks parameter names and types for the corresponding arguments, useful for checking the expected argument at a specific position while typing." />
+                    <Term value="listOf()" definition="A function in Kotlin used to create a list containing specified elements." />
+                    <Term value="subList()" definition="A function in Kotlin used to retrieve a view of a portion of a list between specified indices." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399645">
+                <value>
+                  <list>
+                    <Term value="Variable Argument Lists" definition="A Variable Argument List, denoted by 'vararg' in Kotlin, allows a function to accept multiple parameters of the same type." />
+                    <Term value="chunked()" definition="In Kotlin, 'chunked()' is a standard library function used on a List to divide it into smaller lists or chunks of a specified size." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399646">
+                <value>
+                  <list>
+                    <Term value="flatten()" definition="flatten() is called on a List of Lists and returns a single List of all elements from the nested Lists." />
+                    <Term value="chunked()" definition="chunked() is an operation that breaks a collection into smaller collections of a specified size." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399650">
+                <value>
+                  <list>
+                    <Term value="Sets" definition="A Set in programming is a collection that contains no duplicate elements and allows for quick testing of item membership." />
+                    <Term value="Set" definition="A Set in programming is a collection that contains no duplicate elements and allows for quick testing of item membership." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399654">
+                <value>
+                  <list>
+                    <Term value="Maps" definition="In programming, a Map is a data structure that holds key-value pairs, allowing for the efficient storage and retrieval of data based on keys." />
+                    <Term value="Map" definition="In programming, a Map is a data structure that holds key-value pairs, allowing for the efficient storage and retrieval of data based on keys." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399656">
+                <value>
+                  <list>
+                    <Term value="Maps" definition="A Map is a collection of key-value pairs where each key is unique, and it allows retrieving values using keys." />
+                    <Term value="Map" definition="A Map is a collection of key-value pairs where each key is unique, and it allows retrieving values using keys." />
+                    <Term value="List" definition="A List is an ordered collection that allows duplicate elements and provides indexed access to elements." />
+                    <Term value="NoSuchElementException" definition="NoSuchElementException is thrown when an attempt is made to access an element that does not exist." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399657">
+                <value>
+                  <list>
+                    <Term value="Maps" definition="A Map is a collection that maps keys to values, optimizing element retrieval compared to a List when using keys." />
+                    <Term value="Map" definition="A Map is a collection that maps keys to values, optimizing element retrieval compared to a List when using keys." />
+                    <Term value="NoSuchElementException" definition="NoSuchElementException is thrown when the `getValue()` function is called with a key that does not exist in the collection." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399658">
+                <value>
+                  <list>
+                    <Term value="Column Selection Mode" definition="A feature in IDEs that allows users to perform the same editing operation simultaneously on multiple lines by creating multiple carets." />
+                    <Term value="map" definition="A data structure that associates keys with values, for example `Map&lt;Int, String&gt;` maps integers to strings." />
+                    <Term value="Map" definition="A data structure that associates keys with values, for example `Map&lt;Int, String&gt;` maps integers to strings." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399660">
+                <value>
+                  <list>
+                    <Term value="Property Accessors" definition="Property Accessors allow for controlling how properties of a class are accessed or modified, typically using getter and setter methods." />
+                    <Term value="getter" definition="A getter is a property accessor in a class that retrieves the value of a property." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399661">
+                <value>
+                  <list>
+                    <Term value="Accessors" definition="Accessors in programming are methods that get or set the value of a property." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="399665">
+                <value>
+                  <list>
+                    <Term value="Roman numeral" definition="Roman numerals are a numeral system originating in ancient Rome, using combinations of letters M, CM, D, CD, C, XC, L, XL, X, IX, V, IV, I to represent values such as 1000, 900, 500, 400, etc." />
+                    <Term value="Roman numerals" definition="Roman numerals are a numeral system originating in ancient Rome, using combinations of letters M, CM, D, CD, C, XC, L, XL, X, IX, V, IV, I to represent values such as 1000, 900, 500, 400, etc." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497832">
+                <value>
+                  <list>
+                    <Term value="Extension Functions" definition="An extension function is a way to add new functions to existing classes without modifying their source code." />
+                    <Term value="extension function" definition="An extension function is a way to add new functions to existing classes without modifying their source code." />
+                    <Term value="xmlTag" definition="`xmlTag(tag: String)` is an extension function that wraps the `String` it extends inside an XML tag provided as a parameter." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497833">
+                <value>
+                  <list>
+                    <Term value="Extension Functions" definition="An extension function in Kotlin allows you to add new functionality to existing classes without modifying their code." />
+                    <Term value="extension functions" definition="An extension function in Kotlin allows you to add new functionality to existing classes without modifying their code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497834">
+                <value>
+                  <list>
+                    <Term value="Extension Functions" definition="An Extension Function is a function that allows adding new functionalities to an existing class without modifying its source code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497835">
+                <value>
+                  <list>
+                    <Term value="extension function" definition="An extension function is a function that allows adding new functionality to existing classes without modifying their code." />
+                    <Term value="receiver parameter" definition="In an extension function, the receiver parameter refers to the class instance on which the extension function is called." />
+                    <Term value="Convert receiver to parameter" definition="A feature in the IDE to automatically convert an extension function's receiver parameter into a regular function parameter." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497837">
+                <value>
+                  <list>
+                    <Term value="Default Arguments" definition="Default arguments provide default values for function parameters, enabling the caller to omit those parameters when calling the function." />
+                    <Term value="SimpleTime" definition="SimpleTime is a class that stores the time elapsed from the beginning of the day using hours, minutes, seconds, and nanoseconds as parameters." />
+                    <Term value="toSecondOfDay()" definition="toSecondOfDay() is a member function that returns the number of seconds elapsed since the beginning of the day." />
+                    <Term value="toNanoOfDay()" definition="toNanoOfDay() is a member function that returns the number of nanoseconds elapsed since the beginning of the day." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497838">
+                <value>
+                  <list>
+                    <Term value="joinComments()" definition="A function that joins lines of comment text in a String, removes newlines, and uses a default of ';' as the line separator while also removing comment slashes and whitespace after them." />
+                    <Term value="lines()" definition="An extension function in Kotlin to split a String into a list of lines." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497839">
+                <value>
+                  <list>
+                    <Term value="Change signature" definition="Change Signature is a refactoring tool in IntelliJ IDEA that allows you to safely change function parameter names, add more parameters, or modify the function signature while automatically updating all the callers." />
+                    <Term value="Change Signature" definition="Change Signature is a refactoring tool in IntelliJ IDEA that allows you to safely change function parameter names, add more parameters, or modify the function signature while automatically updating all the callers." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497841">
+                <value>
+                  <list>
+                    <Term value="Overloading" definition="Overloading refers to defining multiple functions with the same name but different parameter lists." />
+                    <Term value="overloaded" definition="Overloading refers to defining multiple functions with the same name but different parameter lists." />
+                    <Term value="default values" definition="Default values in functions allow parameters to have predefined values if arguments are not provided during the function call." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497842">
+                <value>
+                  <list>
+                    <Term value="Introduce parameter" definition="Introduce parameter is a refactoring technique that enables extracting an identifier used inside a function into a function parameter." />
+                    <Term value="Refactor this" definition="Refactor this is an action used to discover available refactoring options for a piece of code, allowing users to make modifications like introducing parameters." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497844">
+                <value>
+                  <list>
+                    <Term value="`when` Expressions" definition="A control structure in Kotlin used to evaluate multiple conditions and execute the corresponding block of code for the first true condition." />
+                    <Term value="`IllegalArgumentException`" definition="An exception in Kotlin thrown to indicate that a method has been passed an illegal or inappropriate argument." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497846">
+                <value>
+                  <list>
+                    <Term value="balanced()" definition="A function that takes a String parameter consisting of parentheses and optional spaces, and checks whether each opening parenthesis has a corresponding closing parenthesis and if all parentheses are properly nested." />
+                    <Term value="IllegalArgumentException" definition="An exception thrown when the String input to the balanced() function contains characters other than parentheses and whitespace." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497849">
+                <value>
+                  <list>
+                    <Term value="Enumerations" definition="Enumerations allow a variable to be one of a predefined set of constants, often used to represent directions, states or other fixed categories." />
+                    <Term value="coordinates" definition="A coordinate is a pair of numerical values that determine a specific location within a grid or plane." />
+                    <Term value="coordinate" definition="A coordinate is a pair of numerical values that determine a specific location within a grid or plane." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497850">
+                <value>
+                  <list>
+                    <Term value="extension functions" definition="Extension functions in Kotlin allow you to add functionality to a class without modifying its code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497854">
+                <value>
+                  <list>
+                    <Term value="Data Classes" definition="In Kotlin, data classes are a concise way to create classes for holding data with automatically generated methods like toString(), equals(), and hashCode()." />
+                    <Term value="Map" definition="In Kotlin, a Map is a collection that holds pairs of objects with each key mapping to a specific value." />
+                    <Term value="maps" definition="In Kotlin, a Map is a collection that holds pairs of objects with each key mapping to a specific value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497856">
+                <value>
+                  <list>
+                    <Term value="Nullable Types" definition="A feature in programming languages allowing a variable to hold a null value, indicating the absence of a value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497857">
+                <value>
+                  <list>
+                    <Term value="Nullable Types" definition="Nullable Types in programming are data types that allow a variable to hold either a value or null. These are often represented explicitly to avoid null-related runtime errors." />
+                    <Term value="toIntOrNull" definition="`toIntOrNull` is an extension function for `String` in Kotlin that attempts to convert the string to an integer, returning null if the conversion is not possible." />
+                    <Term value="radix" definition="The radix in programming represents the base of a number system, for example, 2 for binary, 10 for decimal, and 16 for hexadecimal." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497859">
+                <value>
+                  <list>
+                    <Term value="Safe Calls" definition="Safe calls in programming are used to access properties or methods of an object only if the object is non-null." />
+                    <Term value="Elvis Operator" definition="The Elvis Operator in Kotlin is used as a null-coalescing operator to provide a default value when an expression evaluates to null." />
+                    <Term value="data class" definition="A data class in Kotlin is a class that is meant to hold data and automatically provides implementations of common methods such as equals(), hashCode(), and toString()." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497865">
+                <value>
+                  <list>
+                    <Term value="Nullable Types" definition="A nullable type in Kotlin represents a variable that can hold a null value. They require explicit handling to prevent null pointer exceptions." />
+                    <Term value="orEmpty()" definition="In Kotlin, orEmpty() is a String extension function that returns the receiver String if it is not null, and an empty String if the receiver is null." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497868">
+                <value>
+                  <list>
+                    <Term value="secondOrNull()" definition="A generic extension function for List that returns the second element in the List or null if the List contains less than two elements." />
+                    <Term value="penultimateOrNull()" definition="A generic extension function for List that returns the second to the last element in the List or null if the List contains less than two elements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497869">
+                <value>
+                  <list>
+                    <Term value="Generics" definition="Generics in programming allow a class, interface, or function to work with different data types while providing type safety." />
+                    <Term value="generic" definition="Generics in programming allow a class, interface, or function to work with different data types while providing type safety." />
+                    <Term value="reversed()" definition="The reversed() function in Kotlin is an extension function for List, returning a new List containing the same elements but in reverse order." />
+                    <Term value="N downTo 0" definition="N downTo 0 is a construct in Kotlin used to create a range that iterates from a number N down to 0, inclusive, in descending order." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497873">
+                <value>
+                  <list>
+                    <Term value="Lambdas" definition="A lambda is an anonymous function used to encapsulate a block of code that can be passed as an argument to a function." />
+                    <Term value="lambda" definition="A lambda is an anonymous function used to encapsulate a block of code that can be passed as an argument to a function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497874">
+                <value>
+                  <list>
+                    <Term value="Lambdas" definition="In programming, a Lambda refers to an anonymous function that can be used inline, often as an argument or callback." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497875">
+                <value>
+                  <list>
+                    <Term value="Lambdas" definition="In programming, a lambda is an anonymous function that can have expressions or statements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497877">
+                <value>
+                  <list>
+                    <Term value="Lambdas" definition="In programming, a Lambda is an anonymous function that can be used to define short operations or functions inline." />
+                    <Term value="extension function" definition="In Kotlin, an Extension function is a function that can be added to a class without modifying its source code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497880">
+                <value>
+                  <list>
+                    <Term value="List&lt;Person&gt;" definition="A list in Kotlin containing elements of type Person, where each Person object typically has properties such as name and age." />
+                    <Term value="findOldest" definition="A function to return a list of names of the oldest people from a given list of Person objects, sorted alphabetically." />
+                    <Term value="List&lt;String&gt;" definition="A list in Kotlin containing elements of type String, typically used to store text values or names." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497881">
+                <value>
+                  <list>
+                    <Term value="lambda" definition="A Lambda is a short block of code which takes in parameters and returns a value. Lambdas are used often as functions or small expressions within programming." />
+                    <Term value="predicate" definition="A Predicate is a functional interface representing a function that takes one argument and returns a boolean value based on a condition." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497882">
+                <value>
+                  <list>
+                    <Term value="list" definition="In Kotlin, a List is a collection that holds a sequence of elements, and it can be immutable or mutable." />
+                    <Term value="List" definition="In Kotlin, a List is a collection that holds a sequence of elements, and it can be immutable or mutable." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497883">
+                <value>
+                  <list>
+                    <Term value="all()" definition="A function that checks if all elements in a collection satisfy a given predicate." />
+                    <Term value="none()" definition="A function that checks if none of the elements in a collection satisfy a given predicate." />
+                    <Term value="any()" definition="A function that checks if any element in a collection satisfies a given predicate." />
+                    <Term value="allNonZero()" definition="A function that checks that all elements in a list are non-zero." />
+                    <Term value="hasZero()" definition="A function that checks if the list contains a zero." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497886">
+                <value>
+                  <list>
+                    <Term value="extension property" definition="`isEven` is an example of an extension property, which allows adding a property to a class without modifying its source code." />
+                    <Term value="extension function" definition="`isPrime()` is an example of an extension function, which allows adding a function to a class without modifying its source code." />
+                    <Term value="top-level function" definition="`isPerfect()` is an example of a top-level function, which is defined outside of any class or object." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497890">
+                <value>
+                  <list>
+                    <Term value="Higher-Order Functions" definition="A higher-order function is a function that takes another function as a parameter, or returns a function as a result." />
+                    <Term value="mapIndexedNotNull()" definition="A function in Kotlin that applies a transformation to each element based on its index and value, and filters out nulls, returning a list of non-null elements." />
+                    <Term value="generic types" definition="A type parameter specified using angle brackets (e.g. &lt;T&gt;) in Kotlin, allowing creation of classes and functions that operate on different types." />
+                    <Term value="generic type" definition="A type parameter specified using angle brackets (e.g. &lt;T&gt;) in Kotlin, allowing creation of classes and functions that operate on different types." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497891">
+                <value>
+                  <list>
+                    <Term value="Higher-Order Functions" definition="A function that takes another function as a parameter or returns a function as a result." />
+                    <Term value="andThen" definition="`andThen()` is a function that combines two functions such that it first applies one function and then applies another to the result." />
+                    <Term value="extension function" definition="In Kotlin, an extension function allows you to add new functionality to a class without modifying its source code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497895">
+                <value>
+                  <list>
+                    <Term value="authorBooksMap()" definition="A function that takes a List&lt;Book&gt; as a parameter and builds a Map from each Author to the Books they have written." />
+                    <Term value="List&lt;Book&gt;" definition="A collection type used to represent a list of Book objects." />
+                    <Term value="Map" definition="A data structure that associates keys with values, such as mapping an Author to their Books." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497896">
+                <value>
+                  <list>
+                    <Term value="friendSuggestions" definition="A function that returns friends of friends of a given person, excluding those who are already their friends." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497897">
+                <value>
+                  <list>
+                    <Term value="flatten()" definition="The flatten() function is used to convert a list of lists into a single list containing all the elements." />
+                    <Term value="flatMap()" definition="The flatMap() function operates on a list of elements, applies a provided function to each element, and flattens the resulting list of lists into a single list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497901">
+                <value>
+                  <list>
+                    <Term value="Maps" definition="In programming, a Map is a data structure that associates keys with values, allowing efficient retrieval of values based on their keys." />
+                    <Term value="Map" definition="In programming, a Map is a data structure that associates keys with values, allowing efficient retrieval of values based on their keys." />
+                    <Term value="function" definition="A function is a reusable block of code designed to perform a specific task, which can take input arguments and return a result." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497902">
+                <value>
+                  <list>
+                    <Term value="groupBy()" definition="`groupBy()` is a function in Kotlin used to group elements of a collection by a specified key." />
+                    <Term value="getOrPut()" definition="`getOrPut()` is a function in Kotlin that retrieves the value for a specified key, or computes and adds a new value if the key does not exist." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497903">
+                <value>
+                  <list>
+                    <Term value="associateBy" definition="The associateBy function in Kotlin is used to build a map from the elements of a collection, using a given selector function to produce the keys." />
+                    <Term value="groupBy" definition="The groupBy function in Kotlin groups the elements of a collection into a map according to a given selector function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497915">
+                <value>
+                  <list>
+                    <Term value="studentInstructors()" definition="An extension function in Kotlin that takes a Student as a parameter and finds all instructors that have classes with this student." />
+                    <Term value="studentsOf()" definition="An extension function in Kotlin that takes an Instructor as a parameter and finds all students that attend classes with this instructor." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497916">
+                <value>
+                  <list>
+                    <Term value="averageInstructorRating()" definition="In this context, averageInstructorRating() is a function implemented as a School extension, which calculates the average rating an instructor received from all the students in their classes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497917">
+                <value>
+                  <list>
+                    <Term value="extension function" definition="An extension function in Kotlin is a special function that adds new functionality to an existing class without modifying it." />
+                    <Term value="null" definition="In programming, null represents the absence of a value or a reference to an undefined object." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497918">
+                <value>
+                  <list>
+                    <Term value="instructorsWithLargestClass" definition="A function that identifies instructors who led lessons with the maximum number of students attending." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497928">
+                <value>
+                  <list>
+                    <Term value="Condition.combine()" definition="This function combines two conditions within the `Condition` class." />
+                    <Term value="reduce()" definition="A function in Kotlin used to accumulate a value by performing operations on elements of a collection from left to right." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497930">
+                <value>
+                  <list>
+                    <Term value="Recursion" definition="The process in programming where a function calls itself directly or indirectly to solve a problem." />
+                    <Term value="tail recursive function" definition="A type of recursive function where the recursive call is the last operation performed by the function, allowing for optimization by the compiler or interpreter." />
+                    <Term value="factorial" definition="A mathematical function representing the product of all positive integers up to a given number." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="497932">
+                <value>
+                  <list>
+                    <Term value="Recursion" definition="A programming technique where a function calls itself to solve smaller instances of a problem." />
+                    <Term value="extension function" definition="A feature in Kotlin that allows adding new functionality to existing classes without modifying their source code." />
+                    <Term value="set" definition="A collection in programming that contains no duplicate elements and does not guarantee the order of elements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305710">
+                <value>
+                  <list>
+                    <Term value="Interfaces" definition="An Interface in programming defines a contract that a class agrees to follow by implementing its methods." />
+                    <Term value="constructor" definition="A Constructor is a special function in a class used to initialize objects when creating instances of the class." />
+                    <Term value="class" definition="A Class is a blueprint for creating objects, providing initial values for state and implementations of behavior." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305711">
+                <value>
+                  <list>
+                    <Term value="Interfaces" definition="In programming, an interface is a contract that defines a set of methods that must be implemented by a class." />
+                    <Term value="interface" definition="In programming, an interface is a contract that defines a set of methods that must be implemented by a class." />
+                    <Term value="map()" definition="In programming, the map() function is used to apply a transformation or operation to each element in a collection or sequence, producing a new collection." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305712">
+                <value>
+                  <list>
+                    <Term value="Interfaces" definition="An Interface in programming defines a contract that classes must adhere to, specifying properties and methods without implementing them." />
+                    <Term value="interface" definition="An Interface in programming defines a contract that classes must adhere to, specifying properties and methods without implementing them." />
+                    <Term value="map()" definition="map() is a function in programming used to transform a collection by applying a given operation to each element and returning a new collection." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305715">
+                <value>
+                  <list>
+                    <Term value="Constructors" definition="A constructor is a special function in a class that is called when a new instance of the class is created. It is used for initializing the objects." />
+                    <Term value="constructor" definition="A constructor is a special function in a class that is called when a new instance of the class is created. It is used for initializing the objects." />
+                    <Term value="un-initialized property" definition="An un-initialized property is a variable in a class that does not have a default value assigned and must be initialized in the constructor or later in the code." />
+                    <Term value="local function" definition="A local function is a function that is declared and used inside another function or a block, and is only accessible within that specific scope." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305718">
+                <value>
+                  <list>
+                    <Term value="Secondary Constructors" definition="In Kotlin, a secondary constructor is a constructor that adds additional initialization logic and is defined using the 'constructor' keyword." />
+                    <Term value="secondary constructor" definition="In Kotlin, a secondary constructor is a constructor that adds additional initialization logic and is defined using the 'constructor' keyword." />
+                    <Term value="default value" definition="In Kotlin, a default value allows you to assign a default argument to a parameter in the function or constructor declaration, so you can omit it when calling." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305719">
+                <value>
+                  <list>
+                    <Term value="Secondary Constructors" definition="A secondary constructor in Kotlin is an additional constructor that allows the initialization of a class with different parameters." />
+                    <Term value="secondary constructor" definition="A secondary constructor in Kotlin is an additional constructor that allows the initialization of a class with different parameters." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305722">
+                <value>
+                  <list>
+                    <Term value="Inheritance" definition="Inheritance is a mechanism in object-oriented programming where a class (subclass) can inherit properties and functions from another class (superclass)." />
+                    <Term value="MutableList" definition="In Kotlin, a `MutableList` is a collection data type that allows modification, such as adding or removing elements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305723">
+                <value>
+                  <list>
+                    <Term value="Inheritance" definition="Inheritance is a feature in object-oriented programming where a class (subclass) derives properties and behaviors from another class (superclass)." />
+                    <Term value="function" definition="A function is a block of code designed to perform a specific task and can be called to execute anywhere in the program." />
+                    <Term value="functions" definition="A function is a block of code designed to perform a specific task and can be called to execute anywhere in the program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305724">
+                <value>
+                  <list>
+                    <Term value="Inheritance" definition="Inheritance is a feature of object-oriented programming where a class (child) derives properties and behaviors from another class (parent)." />
+                    <Term value="class hierarchy" definition="A class hierarchy is the organization of classes in a tree structure, with parent and child relationships based on inheritance." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305726">
+                <value>
+                  <list>
+                    <Term value="class hierarchy" definition="In object-oriented programming, a class hierarchy is a way to structure classes in a parent-child relationship, where parent classes define general properties and methods, and child classes can inherit or override these characteristics." />
+                    <Term value="constructor" definition="A constructor is a special function in a class used to initialize objects. It often sets initial values for properties and accepts parameters to define these values." />
+                    <Term value="property" definition="In object-oriented programming, a property is an attribute or a characteristic of an object, defined within a class." />
+                    <Term value="default values" definition="A default value in programming is a pre-defined value assigned to a property or parameter when no specific value is provided." />
+                    <Term value="instances" definition="An instance is a specific realization of a class. It is created based on the blueprint the class provides." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305727">
+                <value>
+                  <list>
+                    <Term value="Base Class Initialization" definition="In programming, 'Base Class Initialization' refers to the process of initializing a base class before its derived classes during the creation of an object." />
+                    <Term value="PlaceSetting" definition="'PlaceSetting' is a class used in the example to demonstrate inheritance and the initialization of components like Spoon, Fork, Knife, and DinnerPlate in a specific order." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305730">
+                <value>
+                  <list>
+                    <Term value="interfaces" definition="An Interface is a contract that classes can implement to define methods without providing their implementation." />
+                    <Term value="multiple inheritance" definition="Multiple Inheritance is a feature where a class inherits behavior and attributes from more than one parent class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305731">
+                <value>
+                  <list>
+                    <Term value="enum" definition="An enum is a special data type that allows the programmer to define a set of predefined constants." />
+                    <Term value="overriding" definition="Override in programming is a feature that allows a subclass to provide a specific implementation of a method that is already defined in its superclass." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305736">
+                <value>
+                  <list>
+                    <Term value="Upcasting" definition="In programming, upcasting refers to treating a subclass object as an instance of its superclass, restricting access to subclass-specific functions." />
+                    <Term value="interface" definition="An interface in programming is a contract that defines methods without their implementation, which must be implemented by the classes that conform to the interface." />
+                    <Term value="trace()" definition="In programming, trace() is typically used for debugging or logging purposes to display the execution flow or output data in a program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305737">
+                <value>
+                  <list>
+                    <Term value="Upcasting" definition="Upcasting occurs when an object of a derived type is treated as an object of its base type, such as adding a derived type object to a container that holds the base type." />
+                    <Term value="interface" definition="An interface defines a contract with abstract member functions that must be implemented by any class inheriting from it." />
+                    <Term value="map()" definition="In programming, `map()` applies a transformation function to each element in a collection, producing a new collection of the transformed elements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305738">
+                <value>
+                  <list>
+                    <Term value="Upcasting" definition="Upcasting is the process of converting an object to the type of one of its parent classes or implemented interfaces, enabling the object to lose its specific type and adopt the parameter type." />
+                    <Term value="interfaces" definition="An interface in programming defines a contract of methods that a class must implement, without providing a specific implementation for those methods." />
+                    <Term value="interface" definition="An interface in programming defines a contract of methods that a class must implement, without providing a specific implementation for those methods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305743">
+                <value>
+                  <list>
+                    <Term value="Polymorphism" definition="Polymorphism is the ability of different types of objects to be accessed through the same interface, enabling a single function to operate on different types of data." />
+                    <Term value="overridden" definition="Override is a feature in object-oriented programming where a subclass provides a specific implementation of a method that is already defined in its parent class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305746">
+                <value>
+                  <list>
+                    <Term value="Stack" definition="Stack provides a last-in-first-out access to elements. You can push() new elements into it, and pop() the last element that was added." />
+                    <Term value="Queue" definition="Queue provides a first-in-first-out access to elements. You can put() new elements into it, while poll() returns the first element." />
+                    <Term value="Composition" definition="In object-oriented programming, composition is an approach where a class is composed using instances of other classes, as opposed to inheritance." />
+                    <Term value="composition" definition="In object-oriented programming, composition is an approach where a class is composed using instances of other classes, as opposed to inheritance." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305747">
+                <value>
+                  <list>
+                    <Term value="ArrayDeque" definition="In Kotlin standard library, ArrayDeque is a double-ended queue that provides efficient implementations to add elements at the last and remove elements at the first." />
+                    <Term value="Composition" definition="Composition allows changes to the internal implementation of a class without altering the code that uses that class." />
+                    <Term value="composition" definition="Composition allows changes to the internal implementation of a class without altering the code that uses that class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305749">
+                <value>
+                  <list>
+                    <Term value="Inheritance" definition="A concept in object-oriented programming where a class (subclass) can inherit properties and methods from another class (superclass)." />
+                    <Term value="extension function" definition="A function that provides additional functionality to a class without modifying its source code." />
+                    <Term value="extension functions" definition="A function that provides additional functionality to a class without modifying its source code." />
+                    <Term value="subclasses" definition="A class that inherits from another class (called superclass) and may override or extend its behavior." />
+                    <Term value="subclass" definition="A class that inherits from another class (called superclass) and may override or extend its behavior." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305751">
+                <value>
+                  <list>
+                    <Term value="Inheritance" definition="A mechanism in object-oriented programming where a class derives properties and behaviors from another class." />
+                    <Term value="inheritance" definition="A mechanism in object-oriented programming where a class derives properties and behaviors from another class." />
+                    <Term value="composition" definition="A design principle in programming where an object is composed using other objects' functionalities, enabling reusability and modularity without inheritance." />
+                    <Term value="Duck" definition="A class or interface in the given code that specifies certain member functions." />
+                    <Term value="CrocoDuck" definition="An implementation of the `Duck` interface that adapts a `Crocodile` by delegating `Duck` member functions to `crocodile.bite()`." />
+                    <Term value="interactWithDuck()" definition="A function in the starter code that operates on objects of type `Duck`." />
+                    <Term value="mimicDuck()" definition="A function designed to dynamically adapt an object, taking a `Crocodile` and returning a `CrocoDuck` implementing `Duck`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305753">
+                <value>
+                  <list>
+                    <Term value="Class Delegation" definition="Class Delegation in programming allows a class to delegate some of its responsibilities to a helper class or object." />
+                    <Term value="resize(scale: Int): Int" definition="A function `resize(scale: Int): Int` that is added to `Rectangle` and returns the `scale` parameter." />
+                    <Term value="rightClicked(): Boolean" definition="A function `rightClicked(): Boolean` added to `MouseManager` to determine whether a right-click action has occurred." />
+                    <Term value="main()" definition="The entry point function `main()` where new functionalities are called to verify their proper implementation." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305755">
+                <value>
+                  <list>
+                    <Term value="Class Delegation" definition="Class Delegation is a feature in programming where a class delegates implementation of one or more methods to another class or interface." />
+                    <Term value="interfaces" definition="An interface in programming is a contract that defines a set of methods without implementing them. Classes that implement the interface must provide the method declarations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305757">
+                <value>
+                  <list>
+                    <Term value="Downcasting" definition="Downcasting is the process of converting a reference of a base class type to a derived class type." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305758">
+                <value>
+                  <list>
+                    <Term value="Downcasting" definition="In Kotlin, downcasting refers to converting a reference of a supertype to one of its subtypes explicitly." />
+                    <Term value="filterIsInstance()" definition="In Kotlin, filterIsInstance() is a function that filters elements of a collection by a specified type and returns a list of objects of that type." />
+                    <Term value="Dog::class.java" definition="In Kotlin, Dog::class.java is a way to reference the Java class object of the Dog class, often used in reflection or dynamic type operations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305759">
+                <value>
+                  <list>
+                    <Term value="Downcasting" definition="Downcasting refers to converting an object of a parent class (or interface) to a more specific type, typically its subclass." />
+                    <Term value="interface" definition="An interface is a programming construct that defines a contract or blueprint for classes without specifying the implementation details." />
+                    <Term value="List" definition="In Kotlin, a List is an ordered collection of elements that can be traversed and manipulated." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305762">
+                <value>
+                  <list>
+                    <Term value="Sealed Classes" definition="In Kotlin, sealed classes are a special kind of class that represent a restricted hierarchy. They are used to define classes with a closed set of types." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305763">
+                <value>
+                  <list>
+                    <Term value="Sealed Classes" definition="Sealed Classes are used to represent restricted class hierarchies, allowing a developer to control the inheritance of classes." />
+                    <Term value="sealedSubclasses" definition="sealedSubclasses is a property in Kotlin used to obtain all subclasses of a sealed class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305764">
+                <value>
+                  <list>
+                    <Term value="Sealed Classes" definition="In Kotlin, sealed classes are used for representing restricted class hierarchies where a value can have one of the types from a limited set." />
+                    <Term value="Random" definition="In Kotlin, Random is a class used to generate random numbers." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305769">
+                <value>
+                  <list>
+                    <Term value="abstract class" definition="An abstract class in programming is a class that cannot be instantiated on its own and serves as a blueprint for other classes. It can contain abstract methods that must be implemented by subclasses." />
+                    <Term value="simpleName" definition="In Kotlin, simpleName refers to the simple name of a class, typically used to output the name of an object's class in string format." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305772">
+                <value>
+                  <list>
+                    <Term value="Inner Classes" definition="In Kotlin, an inner class is a nested class that has access to the properties and methods of its containing class." />
+                    <Term value="inner classes" definition="In Kotlin, an inner class is a nested class that has access to the properties and methods of its containing class." />
+                    <Term value="SAM conversion" definition="In Kotlin, a SAM (Single Abstract Method) conversion allows you to pass a lambda expression where a functional interface is expected." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305773">
+                <value>
+                  <list>
+                    <Term value="inner class" definition="An inner class in programming contains a reference to the outer-class object that creates it, but the reverse is not true." />
+                    <Term value="val" definition="In Kotlin, 'val' is used to declare a read-only property or local variable, meaning its value cannot be reassigned after it is initialized." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305774">
+                <value>
+                  <list>
+                    <Term value="Container&lt;T&gt;" definition="A generic class that takes an Iterable&lt;T&gt; as a data source and provides a mutable list `items` as a property." />
+                    <Term value="Selector&lt;T&gt;" definition="An interface that includes methods `end()`, `current()`, and `next()` for navigating through a `List` of items." />
+                    <Term value="end()" definition="A method that checks whether the current position is at the end of the `items` list." />
+                    <Term value="current()" definition="A method that returns the current element pointed to by the Selector." />
+                    <Term value="next()" definition="A method that advances the Selector to the next element in the list." />
+                    <Term value="traceAll(select: Selector&lt;T&gt;)" definition="A standalone function that appends all the values of `current()` to `trace` using a `Selector`, and returns the `trace`." />
+                    <Term value="iterator()" definition="A function of the `Container` class that returns an instance of an anonymous inner class implementing `Iterator&lt;T&gt;`." />
+                    <Term value="traceAll2(ib: Iterable&lt;T&gt;)" definition="A standalone function that produces the same behavior as `traceAll()` but operates on an `Iterable` instance." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305776">
+                <value>
+                  <list>
+                    <Term value="private val" definition="A private immutable property that can only be accessed within the scope it is declared." />
+                    <Term value="Objects" definition="A singleton object in Kotlin that allows grouping properties and functions together as a single instance." />
+                    <Term value="object" definition="A singleton object in Kotlin that allows grouping properties and functions together as a single instance." />
+                    <Term value="private object" definition="A singleton object in Kotlin with restricted visibility, making it accessible only within the scope it is declared." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305780">
+                <value>
+                  <list>
+                    <Term value="Companion Objects" definition="A Companion Object in Kotlin allows a class to have a single shared instance, which acts like a static method or field." />
+                    <Term value="companion object" definition="A Companion Object in Kotlin allows a class to have a single shared instance, which acts like a static method or field." />
+                    <Term value="Factory" definition="In programming, a Factory is a design pattern that provides an interface to create objects without specifying their concrete classes." />
+                    <Term value="factories" definition="In programming, a Factory is a design pattern that provides an interface to create objects without specifying their concrete classes." />
+                    <Term value="factory" definition="In programming, a Factory is a design pattern that provides an interface to create objects without specifying their concrete classes." />
+                    <Term value="anonymous inner class" definition="An Anonymous Inner Class in Kotlin is a class that has no name and is used to implement interfaces or extend classes inline." />
+                    <Term value="interfaces" definition="An Interface in Kotlin is a blueprint of a class that provides abstract method declarations that classes must implement." />
+                    <Term value="interface" definition="An Interface in Kotlin is a blueprint of a class that provides abstract method declarations that classes must implement." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305781">
+                <value>
+                  <list>
+                    <Term value="Companion Objects" definition="In Kotlin, a Companion Object is an object declaration inside a class. It allows you to create class-level properties and methods similar to static members in Java." />
+                    <Term value="companion object" definition="In Kotlin, a Companion Object is an object declaration inside a class. It allows you to create class-level properties and methods similar to static members in Java." />
+                    <Term value="interfaces" definition="An Interface in Kotlin is a blueprint of a class that contains abstract methods that must be implemented by classes that inherit it." />
+                    <Term value="interface" definition="An Interface in Kotlin is a blueprint of a class that contains abstract methods that must be implemented by classes that inherit it." />
+                    <Term value="const val" definition="In Kotlin, const val is used to declare constants at compile time. These values are immutable and associated with the class level." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305782">
+                <value>
+                  <list>
+                    <Term value="Companion Objects" definition="A companion object is a singleton object associated with a class, defined using the 'companion object' keyword in Kotlin. It enables the creation of class-level properties and methods." />
+                    <Term value="companion object" definition="A companion object is a singleton object associated with a class, defined using the 'companion object' keyword in Kotlin. It enables the creation of class-level properties and methods." />
+                    <Term value="List" definition="List in Kotlin is a collection which holds elements in a specific order and allows duplicates." />
+                    <Term value="list" definition="List in Kotlin is a collection which holds elements in a specific order and allows duplicates." />
+                    <Term value="Accounts" definition="An Account class in the example represents a user account with properties like name, ID, and account number, requiring a multi-step creation process." />
+                    <Term value="accounts" definition="An Account class in the example represents a user account with properties like name, ID, and account number, requiring a multi-step creation process." />
+                    <Term value="Account" definition="An Account class in the example represents a user account with properties like name, ID, and account number, requiring a multi-step creation process." />
+                    <Term value="account" definition="An Account class in the example represents a user account with properties like name, ID, and account number, requiring a multi-step creation process." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305807">
+                <value>
+                  <list>
+                    <Term value="apply" definition="In Kotlin, 'apply' is a scope function that allows you to call functions on an object and return the object itself. It is useful for initializing or configuring objects." />
+                    <Term value="also" definition="In Kotlin, 'also' is a scope function that allows you to perform additional actions on an object while retaining the original object." />
+                    <Term value="run" definition="In Kotlin, 'run' is a scope function that executes a lambda expression on the object and returns the result of the lambda." />
+                    <Term value="let" definition="In Kotlin, 'let' is a scope function that executes a lambda expression on the object and returns the result of the lambda." />
+                    <Term value="with" definition="In Kotlin, 'with' is a scope function that operates on a non-null object and allows you to call multiple functions on the object within a block. It returns the result of the lambda expression." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305808">
+                <value>
+                  <list>
+                    <Term value="Scope Functions" definition="Scope functions in Kotlin (e.g., with, let, run, apply, also) are used for concise and readable code by configuring objects or executing code blocks within a specific context." />
+                    <Term value="scope function" definition="Scope functions in Kotlin (e.g., with, let, run, apply, also) are used for concise and readable code by configuring objects or executing code blocks within a specific context." />
+                    <Term value="SpaceShipControls" definition="SpaceShipControls is a class in Kotlin used in this example to demonstrate scope function usage and block chaining with methods like forward(), right(), and down()." />
+                    <Term value="trace" definition="The trace method in this context is used to verify the results of operations or method calls for debugging or output purposes." />
+                    <Term value="tracing" definition="The trace method in this context is used to verify the results of operations or method calls for debugging or output purposes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305809">
+                <value>
+                  <list>
+                    <Term value="Scope Functions" definition="Scope functions in Kotlin are a set of functions that allow the execution of a block of code within the context of an object." />
+                    <Term value="run" definition="In Kotlin, `run` is a scope function that executes a block of code and returns the result of the block." />
+                    <Term value="apply" definition="In Kotlin, `apply` is a scope function that allows modifications to an object and returns the object itself." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305820">
+                <value>
+                  <list>
+                    <Term value="Triple" definition="In Kotlin, a Triple is a collection type that can hold exactly three values of potentially different types." />
+                    <Term value="Destructuring Declarations" definition="Destructuring Declarations in Kotlin allow unpacking data structures like Pairs or Triples into individual variables for simplicity." />
+                    <Term value="destructuring declaration" definition="Destructuring Declarations in Kotlin allow unpacking data structures like Pairs or Triples into individual variables for simplicity." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305821">
+                <value>
+                  <list>
+                    <Term value="Destructuring Declarations" definition="Destructuring declaration in Kotlin allows you to unpack an object into individual variables using component functions such as component1() and component2()." />
+                    <Term value="destructuring declaration" definition="Destructuring declaration in Kotlin allows you to unpack an object into individual variables using component functions such as component1() and component2()." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305822">
+                <value>
+                  <list>
+                    <Term value="Destructuring Declarations" definition="In Kotlin, destructuring declarations is a syntax that allows you to extract multiple properties from an object into separate variables in a single statement." />
+                    <Term value="val (name, age) = person" definition="A destructuring declaration in Kotlin where the 'name' and 'age' properties of the 'person' object are assigned to separate variables." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305825">
+                <value>
+                  <list>
+                    <Term value="var" definition="In Kotlin, 'var' is used to declare a mutable variable, which means its value can be changed." />
+                    <Term value="val" definition="In Kotlin, 'val' is used to declare an immutable variable, meaning its value cannot be reassigned once initialized." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305827">
+                <value>
+                  <list>
+                    <Term value="Unicode" definition="Unicode is a computing standard that assigns a unique numeric value to each character in writing systems of the world." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305830">
+                <value>
+                  <list>
+                    <Term value="truth table" definition="A truth table is a mathematical table used in logic to determine the truth value of compound expressions derived from all possible combinations of their individual expressions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305832">
+                <value>
+                  <list>
+                    <Term value="expression body syntax" definition="A concise way to define a function in a single expression without using curly braces, often used in Kotlin." />
+                    <Term value="println()" definition="A function in Kotlin used to print text to the console followed by a newline." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305833">
+                <value>
+                  <list>
+                    <Term value="i--" definition="i-- means that first the current value of i is produced, then the value is decremented." />
+                    <Term value="--i" definition="--i means that first the value of i is decremented, then the current value is produced." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305836">
+                <value>
+                  <list>
+                    <Term value="expression body" definition="In Kotlin, an expression body is a compact way of defining the logic of a function using a single expression." />
+                    <Term value="Boolean" definition="Boolean is a data type in Kotlin that can hold one of two possible values: true or false." />
+                    <Term value="main()" definition="In Kotlin, the `main()` function serves as the entry point of the program where the code execution begins." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305837">
+                <value>
+                  <list>
+                    <Term value="Double.MAX_VALUE" definition="Double.MAX_VALUE is the constant that holds the largest positive finite value of the Double type." />
+                    <Term value="Double.POSITIVE_INFINITY" definition="Double.POSITIVE_INFINITY is a constant representing the positive infinity value of the Double type." />
+                    <Term value="Double" definition="Double is a data type that typically occupies 64 bits in memory and represents numbers with some precision." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305842">
+                <value>
+                  <list>
+                    <Term value="val" definition="In Kotlin, 'val' is used to declare a read-only property or variable. Once a value is assigned, it cannot be changed." />
+                    <Term value="var" definition="In Kotlin, 'var' is used to declare a mutable property or variable. Its value can be changed after assignment." />
+                    <Term value="member function" definition="A member function in Kotlin is a function that is defined within a class and can operate on the instance of that class." />
+                    <Term value="main()" definition="The 'main()' function in Kotlin is the entry point of a Kotlin program. It is where program execution starts." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305843">
+                <value>
+                  <list>
+                    <Term value="Constructors" definition="A constructor is a special function in a class used to initialize objects and their properties at the time of creation." />
+                    <Term value="constructor" definition="A constructor is a special function in a class used to initialize objects and their properties at the time of creation." />
+                    <Term value="toString()" definition="toString() is a member function that converts an object into a string representation for easy display or debugging." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305844">
+                <value>
+                  <list>
+                    <Term value="constructor" definition="A constructor is a special method used to initialize an object. In Kotlin, it initializes properties during object creation." />
+                    <Term value="private" definition="The 'private' visibility modifier in Kotlin restricts access to a property or function to within the same class." />
+                    <Term value="toString()" definition="The 'toString()' method in Kotlin provides a string representation of an object. It can be overridden to specify a custom format." />
+                    <Term value="val" definition="The 'val' keyword in Kotlin declares a read-only property that cannot be reassigned after it is initialized." />
+                    <Term value="var" definition="The 'var' keyword in Kotlin is used to declare a mutable property that can be reassigned." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305847">
+                <value>
+                  <list>
+                    <Term value="abs()" definition="A function that returns the absolute value of its parameter." />
+                    <Term value="eq" definition="A method used to test equality between values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305851">
+                <value>
+                  <list>
+                    <Term value="vararg" definition="In programming, 'vararg' is a parameter that can accept a variable number of arguments." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305852">
+                <value>
+                  <list>
+                    <Term value="toList()" definition="The toList() function in Kotlin converts an array into a List, typically used for easier manipulation and representation of the data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305854">
+                <value>
+                  <list>
+                    <Term value="Sets" definition="A Set is a collection of unique elements, meaning it contains no duplicate values." />
+                    <Term value="Set" definition="A Set is a collection of unique elements, meaning it contains no duplicate values." />
+                    <Term value="Random.nextInt" definition="Random.nextInt(25) generates a random integer between 0 (inclusive) and 25 (exclusive)." />
+                    <Term value="experiment()" definition="The experiment() function generates random integers between 1 and 25, adds them to a Set, and counts how many steps are required for the Set to contain all values from 1 to 25." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305855">
+                <value>
+                  <list>
+                    <Term value="Property Accessors" definition="Property accessors are methods that control the access to a property of a class, such as 'get' and 'set', used to read and write property values." />
+                    <Term value="property accessors" definition="Property accessors are methods that control the access to a property of a class, such as 'get' and 'set', used to read and write property values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305856">
+                <value>
+                  <list>
+                    <Term value="Property Accessors" definition="Property accessors in programming are methods that allow controlled access to a property's value through getters and setters." />
+                    <Term value="MutableList" definition="A MutableList is a collection that allows modification of its elements, such as adding, removing, or updating items." />
+                    <Term value="getter" definition="A getter is a method or custom function that retrieves the value of a property." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305859">
+                <value>
+                  <list>
+                    <Term value="FixedSizeHolder" definition="A class with a constructor parameter that sets the maximum number of Any objects that can be held." />
+                    <Term value="size" definition="A read-only property that provides the current number of objects held." />
+                    <Term value="full" definition="A read-only property indicating whether the FixedSizeHolder has reached its maximum capacity." />
+                    <Term value="add()" definition="A method to add objects into FixedSizeHolder, which throws an IllegalStateException if it’s full." />
+                    <Term value="IllegalStateException" definition="An exception thrown when the add() method is called on a FixedSizeHolder that is full." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305860">
+                <value>
+                  <list>
+                    <Term value="addTranslations(word: String, translations: String)" definition="A member function of the Dictionary class that adds translations for a word separated by whitespace, throwing an IllegalArgumentException if the word already has translations." />
+                    <Term value="IllegalArgumentException" definition="An exception thrown by the addTranslations() function when the word already has translations, with the message 'Dictionary already has translations for '&lt;word&gt;' '." />
+                    <Term value="split(&quot; &quot;)" definition="A method on String to split words by whitespace." />
+                    <Term value="_translations" definition="An auxiliary property that contains a mutable Map of translations, used to back the read-only 'translations' property." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305863">
+                <value>
+                  <list>
+                    <Term value="Default Arguments" definition="Default arguments in Kotlin are predefined values that are used by the function when no corresponding argument is provided during the function invocation." />
+                    <Term value="default arguments" definition="Default arguments in Kotlin are predefined values that are used by the function when no corresponding argument is provided during the function invocation." />
+                    <Term value="toString()" definition="In Kotlin, the toString() method is used to create a string representation of an object." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305864">
+                <value>
+                  <list>
+                    <Term value="Overloading" definition="Overloading refers to defining multiple functions or methods in the same scope, having the same name but differing in number or types of their parameters." />
+                    <Term value="overloaded" definition="Overloading refers to defining multiple functions or methods in the same scope, having the same name but differing in number or types of their parameters." />
+                    <Term value="bark()" definition="In the `Dog` class, `bark()` is an overloaded member function which can either accept one parameter `n` to repeat 'woof' or two parameters `n` and `say` to repeat the string `say` a specified number of times." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305867">
+                <value>
+                  <list>
+                    <Term value="extension function" definition="In Kotlin, an Extension Function allows adding new functions to existing classes without modifying their structure." />
+                    <Term value="Data Classes" definition="In Kotlin, Data Classes are a concise way to create classes that are primarily used to hold data, automatically providing utility methods like `toString()`, `equals()`, and `copy()`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305868">
+                <value>
+                  <list>
+                    <Term value="Nullable Types" definition="A nullable type is a type of variable that can hold either a value or null." />
+                    <Term value="explicit return type" definition="An explicit return type is where the return type of a function is clearly specified in its declaration." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305869">
+                <value>
+                  <list>
+                    <Term value="Safe Calls" definition="Safe calls are a feature in Kotlin used to safely access a nullable object's properties or invoke methods without causing a NullPointerException. They return null if the object is null." />
+                    <Term value="safe calls" definition="Safe calls are a feature in Kotlin used to safely access a nullable object's properties or invoke methods without causing a NullPointerException. They return null if the object is null." />
+                    <Term value="Elvis Operator" definition="The Elvis operator, represented by ?: in Kotlin, is used to provide a default value when a nullable expression evaluates to null." />
+                    <Term value="Elvis operator" definition="The Elvis operator, represented by ?: in Kotlin, is used to provide a default value when a nullable expression evaluates to null." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305870">
+                <value>
+                  <list>
+                    <Term value="Non-Null Assertions" definition="Non-Null Assertions in Kotlin are used to assert that a nullable variable is not null by appending '!!' to the variable." />
+                    <Term value="non-null assertion" definition="Non-Null Assertions in Kotlin are used to assert that a nullable variable is not null by appending '!!' to the variable." />
+                    <Term value="nullable" definition="A nullable type in Kotlin represents a variable that can either contain a value or be null. This is denoted with a '?' after the type." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305871">
+                <value>
+                  <list>
+                    <Term value="Nullable Types" definition="Nullable types are types that can hold a null value, typically used to handle the absence of a value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305872">
+                <value>
+                  <list>
+                    <Term value="generic class" definition="A class in programming that is defined with type parameters, allowing operations on objects of different types while providing type safety." />
+                    <Term value="private Map" definition="A Map data structure that is specified to be 'private', restricting its access to within the class it is declared in." />
+                    <Term value="CountingSet" definition="A generic class designed to track the number of times each element is added to it, using a private Map for storage." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305874">
+                <value>
+                  <list>
+                    <Term value="Extension Properties" definition="An extension property in programming is a property that is added to a class externally without modifying its source code." />
+                    <Term value="extension property" definition="An extension property in programming is a property that is added to a class externally without modifying its source code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305877">
+                <value>
+                  <list>
+                    <Term value="break" definition="The break statement in programming is used to exit a loop prematurely when a certain condition is met." />
+                    <Term value="continue" definition="The continue statement in programming skips the current iteration of the loop and moves to the next iteration." />
+                    <Term value="return" definition="The return statement in a function is used to exit the function and optionally pass a value back to the caller." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305879">
+                <value>
+                  <list>
+                    <Term value="enum" definition="An 'enum' in Kotlin is a special data type that enables for a variable to be a set of predefined constants, like 'LAND', 'WATER', or 'AMPHIBIOUS'." />
+                    <Term value="filter()" definition="In Kotlin, 'filter()' is used to filter elements in a collection based on a given predicate." />
+                    <Term value="partition()" definition="In Kotlin, 'partition()' is a function that splits a collection into a pair of lists, one where elements match a predicate and the other where they do not." />
+                    <Term value="Member References" definition="In Kotlin, 'member references' are syntax for referencing functions or properties of an object or class to be passed as parameters." />
+                    <Term value="member references" definition="In Kotlin, 'member references' are syntax for referencing functions or properties of an object or class to be passed as parameters." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305881">
+                <value>
+                  <list>
+                    <Term value="infinite sequence" definition="An infinite sequence is a list of numbers or values that continues indefinitely without an end." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305883">
+                <value>
+                  <list>
+                    <Term value="Local Functions" definition="A Local Function is a function defined inside another function and is accessible only within the scope of its enclosing function." />
+                    <Term value="local function" definition="A Local Function is a function defined inside another function and is accessible only within the scope of its enclosing function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305884">
+                <value>
+                  <list>
+                    <Term value="Local Functions" definition="Local Functions are functions defined inside another function and can access local variables of the outer function." />
+                    <Term value="local functions" definition="Local Functions are functions defined inside another function and can access local variables of the outer function." />
+                    <Term value="pure functional programming languages" definition="Pure Functional Programming Languages are programming languages that avoid mutable state and side effects, focusing on the use of functions and immutability." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305885">
+                <value>
+                  <list>
+                    <Term value="Local Functions" definition="Local functions are functions defined inside another function, often used for better organization and encapsulation of logic." />
+                    <Term value="Pair" definition="A Pair is a Kotlin data structure that holds two related objects." />
+                    <Term value="null" definition="In programming, null represents the absence of a value or a null reference." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1305886">
+                <value>
+                  <list>
+                    <Term value="tail recursive function" definition="A tail recursive function is a recursive function where the recursive call is the last operation in the function, allowing the compiler to optimize the call to avoid stack overflow." />
+                    <Term value="Recursion" definition="Recursion is a programming technique where a function calls itself to solve a problem." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1325910">
+                <value>
+                  <list>
+                    <Term value="Polymorphism" definition="Polymorphism in programming is the ability for different classes to be treated as instances of the same class through a common interface." />
+                    <Term value="interface" definition="An interface in Kotlin is a way to define methods and properties that a class must implement, without providing the method bodies." />
+                    <Term value="Flyer" definition="Flyer is an interface in the example that includes a method 'fly()' which must be implemented by classes like Dragon and Wizard." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595237">
+                <value>
+                  <list>
+                    <Term value="createString()" definition="A function that behaves like buildString(). It creates a new instance of StringBuilder, invokes the extension lambda argument on it, and then returns the String result." />
+                    <Term value="createList()" definition="A function that behaves like buildList(). It creates an ArrayList&lt;T&gt;, invokes the extension lambda argument on it, and returns a read-only List." />
+                    <Term value="createMap()" definition="A function that behaves like buildMap(). It creates a HashMap&lt;K, V&gt;, invokes the extension lambda argument on it, and returns a read-only Map." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595238">
+                <value>
+                  <list>
+                    <Term value="Extension Lambdas" definition="An Extension Lambda is a lambda function that extends a class or type in Kotlin, allowing users to define custom behavior for that type." />
+                    <Term value="extension function" definition="An Extension Function in Kotlin allows adding new functions to existing classes without modifying their code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595241">
+                <value>
+                  <list>
+                    <Term value="Generics" definition="Generics enable types (classes and methods) to be parameterized by other types." />
+                    <Term value="generic" definition="Generics enable types (classes and methods) to be parameterized by other types." />
+                    <Term value="SAM conversion" definition="SAM conversions allow functional interfaces with a single abstract method to be instantiated using lambda expressions." />
+                    <Term value="vararg" definition="In Kotlin, 'vararg' allows a function parameter to accept multiple arguments." />
+                    <Term value="generic interface" definition="A generic interface is an interface that uses type parameters to define methods and properties, enabling flexibility and type safety." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595242">
+                <value>
+                  <list>
+                    <Term value="Generics" definition="Generics enable types (classes and methods) to be parameters when defining classes, methods, and interfaces." />
+                    <Term value="generic" definition="Generics enable types (classes and methods) to be parameters when defining classes, methods, and interfaces." />
+                    <Term value="CrateList" definition="A generic class inheriting from an ArrayList of Crate, allowing for type-safe operations with added functionality." />
+                    <Term value="DecoratedCrate" definition="A nested private generic class inheriting from Crate, with a toString() method that returns the value from get() within square brackets." />
+                    <Term value="toString()" definition="A method in Java that specifies how an object should be represented as a String." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595244">
+                <value>
+                  <list>
+                    <Term value="abstract class" definition="An abstract class is a class that cannot be instantiated and typically includes abstract methods that must be implemented by derived classes." />
+                    <Term value="override" definition="Override is a mechanism in object-oriented programming where a subclass provides a specific implementation of a method defined in its superclass." />
+                    <Term value="List" definition="In programming, a List is a collection of elements ordered in a sequence and supports operations like iteration and access by index." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595245">
+                <value>
+                  <list>
+                    <Term value="Exception" definition="In Java and Kotlin, Exception is a class used to handle errors or unexpected conditions in a program's execution." />
+                    <Term value="exceptions" definition="In Java and Kotlin, Exception is a class used to handle errors or unexpected conditions in a program's execution." />
+                    <Term value="exception" definition="In Java and Kotlin, Exception is a class used to handle errors or unexpected conditions in a program's execution." />
+                    <Term value="HamsterCageException" definition="HamsterCageException is a custom exception class that inherits from Exception and overrides the toString() method to provide a detailed error message." />
+                    <Term value="CageFullException" definition="CageFullException is a custom exception that inherits from HamsterCageException and is thrown when trying to add a Hamster to a full cage." />
+                    <Term value="NoSuchHamsterException" definition="NoSuchHamsterException is a custom exception that inherits from HamsterCageException and is thrown when trying to find a Hamster by its name that does not exist in the cage." />
+                    <Term value="OutOfWaterException" definition="OutOfWaterException is a custom exception that inherits from HamsterCageException and is thrown when there's no water in the cage during the feeding process." />
+                    <Term value="HashSet" definition="A HashSet in Kotlin is a collection that contains unique elements and uses hash codes for quick access." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595246">
+                <value>
+                  <list>
+                    <Term value="exception hierarchy" definition="An organizational structure of exceptions in which specific exception classes are derived from more abstract ones, allowing for handling different exception types effectively." />
+                    <Term value="NoNumber" definition="An exception thrown when the `findNumber` function fails to find a number in the given `String`." />
+                    <Term value="BadNumber" definition="An exception thrown when the `convertNumber` function cannot convert the provided `String` into an `Int`." />
+                    <Term value="trace()" definition="A function used to log or output the result, commonly used for debugging or tracking the execution flow in programs." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595247">
+                <value>
+                  <list>
+                    <Term value="require()" definition="A function in Kotlin that throws an IllegalArgumentException if a condition is false, typically used for precondition checks." />
+                    <Term value="String" definition="A Kotlin class representing a sequence of characters." />
+                    <Term value="strings" definition="A Kotlin class representing a sequence of characters." />
+                    <Term value="Double" definition="A Kotlin class used to represent decimal numbers with double precision." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595249">
+                <value>
+                  <list>
+                    <Term value="IntRange" definition="IntRange is a Kotlin class that represents a range of integer values." />
+                    <Term value="constructor" definition="A constructor is a special function used to initialize objects in a class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595250">
+                <value>
+                  <list>
+                    <Term value="exception" definition="An Exception is an object that is thrown during the execution of a program to signal the occurrence of an error or abnormal condition." />
+                    <Term value="Failure" definition="A custom exception class designed to take a `msg: String` parameter and pass it to the base-class constructor." />
+                    <Term value="require" definition="A function commonly used to enforce a condition and throw an exception if the condition is not met, often implemented with custom logic." />
+                    <Term value="check" definition="A function that verifies a condition, throwing an exception if the condition is not satisfied, commonly implemented to validate preconditions." />
+                    <Term value="Check" definition="A function that verifies a condition, throwing an exception if the condition is not satisfied, commonly implemented to validate preconditions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595251">
+                <value>
+                  <list>
+                    <Term value="non-modifiable copy" definition="A non-modifiable copy refers to a version of a collection or object that cannot be altered, ensuring data immutability." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595253">
+                <value>
+                  <list>
+                    <Term value="java.io.File" definition="A class in Java used to create, delete, and manipulate file and directory structures." />
+                    <Term value="useLines()" definition="A method in Kotlin that reads a file line by line using a sequence, ensuring resource cleanup." />
+                    <Term value="forEachLine()" definition="A Kotlin extension function that reads a file line by line and applies a given action to each line." />
+                    <Term value="trace()" definition="A placeholder or utility function, used in educational examples, often meant to log or monitor data during execution." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595255">
+                <value>
+                  <list>
+                    <Term value="enum class Option { Normal, Return, Throw }" definition="An enumeration representing three distinct behaviors: `Normal` executes functions in a sequence, `Return` exits the `use()` block mid-function, and `Throw` raises an exception mid-block." />
+                    <Term value="verifyClose(opt: Option)" definition="A function designed to verify that `close()` is always invoked, regardless of the exit method from a `use()` block." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595256">
+                <value>
+                  <list>
+                    <Term value="Level" definition="A class reused from a previous exercise, which presumably provides logging levels for the system." />
+                    <Term value="level" definition="A class reused from a previous exercise, which presumably provides logging levels for the system." />
+                    <Term value="Pipe" definition="A class in Kotlin that takes a 'Level' as a constructor parameter and logs information using 'atomiclog' to 'PipeLog.txt'." />
+                    <Term value="atomiclog" definition="A logging utility used to define a logger instance for logging messages to an associated file." />
+                    <Term value="trace()" definition="A logging function, presumably the lowest level, called when the level is 2." />
+                    <Term value="debug()" definition="A logging function called when the level is 4." />
+                    <Term value="info()" definition="A logging function called when the level is 6." />
+                    <Term value="warn()" definition="A logging function called when the level is 8." />
+                    <Term value="error()" definition="A logging function, presumably the highest level, called when the level is 10." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595257">
+                <value>
+                  <list>
+                    <Term value="atomiclog" definition="A tool or library used to log exceptions into a specified Logger file." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595258">
+                <value>
+                  <list>
+                    <Term value="logging levels" definition="Logging levels categorize log messages by their severity, typically ranging from 'Trace', 'Debug', 'Info', 'Warn', to 'Error'." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595260">
+                <value>
+                  <list>
+                    <Term value="Unit Testing" definition="Unit Testing in programming involves testing individual units or components of a program to ensure they work as expected." />
+                    <Term value="assertEquals()" definition="assertEquals() is a function from kotlin.test which is used to compare the expected output to the actual output in a test." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595261">
+                <value>
+                  <list>
+                    <Term value="Unit Testing" definition="The process of testing individual units or components of a program to ensure they work as expected." />
+                    <Term value="assertEquals" definition="A function from kotlin.test used to assert that the expected value equals the actual value during a test." />
+                    <Term value="aeq" definition="A generic infix function in Kotlin that compares an expected value with an actual value using assertEquals." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595263">
+                <value>
+                  <list>
+                    <Term value="Operator Overloading" definition="Operator overloading allows extending the behavior of operators (like `++` or `--`) to work with user-defined types, enabling custom functionality." />
+                    <Term value="extension functions" definition="In Kotlin, extension functions are functions that can be added to existing types without modifying their original definition, enabling cleaner and more intuitive code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595264">
+                <value>
+                  <list>
+                    <Term value="Operator Overloading" definition="Operator overloading allows you to provide custom implementation for standard operators for user-defined types in programming languages like Kotlin." />
+                    <Term value="MutableList" definition="MutableList is a Kotlin collection that allows adding, removing, or updating elements in a list." />
+                    <Term value="toString()" definition="In Kotlin, the toString() function is used to convert objects into their string representation." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595265">
+                <value>
+                  <list>
+                    <Term value="data class" definition="In Kotlin, a data class is a class specifically designed to hold data and automatically generates standard functionality such as equals(), hashCode(), and toString()." />
+                    <Term value="default arguments" definition="Default arguments in Kotlin allow functions or constructors to have default values for parameters, which are used if no explicit argument is provided." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595266">
+                <value>
+                  <list>
+                    <Term value="MutableList" definition="A MutableList in Kotlin is a type of list that allows modification of its elements such as adding, removing, or updating items." />
+                    <Term value="decrement-equals" definition="In Kotlin, the decrement-equals operator (e.g., `-=`) is used to remove elements from a collection." />
+                    <Term value="increment-equals" definition="In Kotlin, the increment-equals operator (e.g., `+=`) is used to add elements to a collection." />
+                    <Term value="traces" definition="Tracing in programming often refers to monitoring or logging the execution of a function or the state of variables for debugging purposes." />
+                    <Term value="trace" definition="Tracing in programming often refers to monitoring or logging the execution of a function or the state of variables for debugging purposes." />
+                    <Term value="Trace" definition="Tracing in programming often refers to monitoring or logging the execution of a function or the state of variables for debugging purposes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595267">
+                <value>
+                  <list>
+                    <Term value="data class" definition="In Kotlin, a data class is a class that is used to hold data. It automatically generates useful methods like equals(), hashCode(), toString(), and copy()." />
+                    <Term value="Comparable" definition="In Kotlin, implementing the Comparable interface allows objects of a class to be compared to each other using the compareTo() function, which determines the natural order of the objects." />
+                    <Term value="MutableMap" definition="In Kotlin, a MutableMap is a map that allows both read and write operations where keys are unique and each key is associated with one value." />
+                    <Term value="SortedSet" definition="In Kotlin, a SortedSet is a collection that maintains its elements in a sorted order according to their natural ordering or a specified comparator." />
+                    <Term value="compareTo()" definition="The compareTo() method in Kotlin is used to define the natural order of objects within a class, and it impacts their behavior in collections like Map and Set." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595276">
+                <value>
+                  <list>
+                    <Term value="Lazy Initialization" definition="Lazy initialization is a design pattern where an object or a property is only initialized when it is accessed for the first time, optimizing resource usage." />
+                    <Term value="inner class" definition="An inner class is a class defined within another class, typically used to logically group classes that will be used only inside the outer class." />
+                    <Term value="trace()" definition="In programming, trace() function is often used for logging or debugging purposes and outputs diagnostic information during program execution." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595277">
+                <value>
+                  <list>
+                    <Term value="Lazy Initialization" definition="Lazy Initialization in Kotlin is a technique in which initialization of a value is postponed until it is accessed for the first time." />
+                    <Term value="Lazy" definition="In Kotlin, 'lazy' is a delegate function used to define a property that gets initialized only once and only when first accessed." />
+                    <Term value="lazy" definition="In Kotlin, 'lazy' is a delegate function used to define a property that gets initialized only once and only when first accessed." />
+                    <Term value="trace()" definition="In Kotlin, 'trace()' is often used as a debugging or logging function to announce specific events or actions within the program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595279">
+                <value>
+                  <list>
+                    <Term value="lateinit" definition="In Kotlin, 'lateinit' is used for declaring a non-null variable that will be initialized later, making it mandatory to initialize it before usage." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595280">
+                <value>
+                  <list>
+                    <Term value="lateinit" definition="In Kotlin, 'lateinit' is used to declare a non-optional property that will be initialized at a later point in time, rather than at object construction." />
+                    <Term value="data class" definition="In Kotlin, a 'data class' is used to hold data and provides methods like equals(), hashCode(), and toString() automatically." />
+                    <Term value="toString()" definition="In Kotlin, 'toString()' is a member function that provides a string representation of an object." />
+                    <Term value="forEach" definition="In Kotlin, 'forEach' is a loop construct used to iterate over elements in a collection and execute a block of code for each element." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1595373">
+                <value>
+                  <list>
+                    <Term value="Exception Handling" definition="A programming concept to manage and resolve runtime errors by using constructs like try, catch, and finally." />
+                    <Term value="DataBase" definition="A class in the provided code that handles data storage and retrieval operations, and may throw exceptions based on certain conditions." />
+                    <Term value="database" definition="A class in the provided code that handles data storage and retrieval operations, and may throw exceptions based on certain conditions." />
+                    <Term value="NetConnection" definition="A class in the provided code that represents a network connection, used for reading and writing operations, and may throw exceptions." />
+                    <Term value="Status" definition="An enumeration in the code that reports operation results, such as 'Success' or 'Failed', as alternatives to exceptions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1710345">
+                <value>
+                  <list>
+                    <Term value="Property Delegation" definition="Property Delegation in Kotlin allows you to delegate the getter and setter responsibility of a property to another class or function using the 'by' keyword." />
+                    <Term value="getValue()" definition="In Kotlin, getValue() is an operator function that provides the logic for retrieving the value of a delegated property." />
+                    <Term value="setValue()" definition="In Kotlin, setValue() is an operator function that provides the logic for updating the value of a delegated property." />
+                    <Term value="Delegator" definition="A Delegator is a class in Kotlin that delegates certain properties or operations to another object or function using the 'by' keyword." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1710346">
+                <value>
+                  <list>
+                    <Term value="Property Delegation" definition="Property Delegation in Kotlin is a mechanism by which a delegate handles the getter and setter logic for a property." />
+                    <Term value="getValue" definition="In Kotlin, getValue is a method used in property delegation to retrieve the value of a property." />
+                    <Term value="setValue" definition="In Kotlin, setValue is a method used in property delegation to assign a value to a property." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1710347">
+                <value>
+                  <list>
+                    <Term value="Property Delegation" definition="In Kotlin, Property Delegation is a mechanism to delegate the getter or setter logic of a property to another object using 'by'." />
+                    <Term value="data class" definition="A 'data class' in Kotlin is a class designed to hold data with automatically generated methods like equals(), hashCode(), and toString()." />
+                    <Term value="notNull()" definition="'notNull()' in Kotlin is a delegated property used to ensure that a property is not null by throwing an exception if accessed before initialization." />
+                    <Term value="atomictest.eq" definition="'atomictest.eq' is a function used for assertion in the 'atomictest' library to test if expressions yield the expected values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1710348">
+                <value>
+                  <list>
+                    <Term value="Property Delegation" definition="Property Delegation is a mechanism in Kotlin where the getter and setter logic for a property is delegated to another object." />
+                    <Term value="observable" definition="In Kotlin, 'observable' is a property delegate that allows observing changes to a property and responding whenever the property changes." />
+                    <Term value="trace" definition="In the context of this Kotlin snippet, 'trace()' is likely a function used to capture and log updates to a property, represented as `&quot;$propertyName $oldValue to $newValue&quot;`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1832435">
+                <value>
+                  <list>
+                    <Term value="Non-Null Assertions" definition="Non-Null Assertion is an operation in Kotlin that asserts a value is non-null by using the '!!' operator to forcefully treat a nullable variable as non-nullable." />
+                    <Term value="non-null assertion" definition="Non-Null Assertion is an operation in Kotlin that asserts a value is non-null by using the '!!' operator to forcefully treat a nullable variable as non-nullable." />
+                    <Term value="Triple" definition="In Kotlin, a Triple is a data structure that holds three values, each of which can be of a different type." />
+                    <Term value="mutableListOf" definition="In Kotlin, mutableListOf is a function that creates a mutable list, which is a collection that allows elements to be added, modified, or removed." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1832437">
+                <value>
+                  <list>
+                    <Term value="Polymorphism" definition="Polymorphism is a programming concept where a single interface can represent different underlying data types or objects." />
+                    <Term value="interface" definition="In programming, an interface is a structure that defines a contract in the form of methods or properties that a class must implement." />
+                    <Term value="override" definition="Override refers to the practice of replacing a method in a subclass with a new implementation that has the same signature as the method in the superclass." />
+                    <Term value="constructor" definition="A constructor is a special function in a class used to create and initialize an object." />
+                    <Term value="member function" definition="A member function is a function that is defined within a class and operates on instance variables of that class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1832438">
+                <value>
+                  <list>
+                    <Term value="safetyGap" definition="A property that calculates a 2% gap of empty space that must be preserved at the top of the tank." />
+                    <Term value="maxLevel" definition="The actual allowable amount the tank can hold, taking safety gap into account." />
+                    <Term value="add(quantity: Double): Double" definition="A member function of the Tank class that adds a positive quantity to the tank up to maxLevel, stores the remainder, and performs checks on level and remainder." />
+                    <Term value="drain(quantity: Double)" definition="A member function of the Tank class that removes a positive quantity from the tank without exceeding the current level, and ensures level is non-negative after operation." />
+                    <Term value="check()" definition="A function call used to verify internal constraints and logic, throwing exceptions if a condition indicates a programming error." />
+                    <Term value="unit tests" definition="A testing methodology where individual units or components, such as functions or methods, are tested independently to ensure correctness." />
+                    <Term value="Unit Testing" definition="A testing methodology where individual units or components, such as functions or methods, are tested independently to ensure correctness." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2085388">
+                <value>
+                  <list>
+                    <Term value="break" definition="The 'break' statement is used to exit a loop prematurely based on a certain condition." />
+                    <Term value="continue" definition="The 'continue' statement is used to skip the remaining code in the current iteration of a loop and proceeds to the next iteration." />
+                    <Term value="vararg" definition="The 'vararg' keyword in Kotlin allows a function parameter to accept a variable number of arguments." />
+                    <Term value="trace()" definition="The 'trace()' function likely outputs or logs a message, often used for debugging or informational purposes (based on the context, implementation might vary)." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="4" />
+      </map>
+    </termsVersions>
+  </component>
+</project>
